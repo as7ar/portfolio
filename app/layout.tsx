@@ -14,11 +14,11 @@ export const metadata: Metadata = {
     title: "astar.portfolio",
     description:
       "the Portfolio of AS7AR",
-    url: "https://chronark.com",
+    url: "https://astar-portfolio.netlify.app/",
     siteName: "astar.portfolio",
     images: [
       {
-        url: "https://chronark.com/og.png",
+        url: "https://astar-portfolio.netlify.app/og.png",
         width: 1920,
         height: 1080,
       },
