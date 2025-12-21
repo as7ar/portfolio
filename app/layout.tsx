@@ -9,11 +9,11 @@ export const metadata: Metadata = {
     template: "%s | as7ar.portfolio",
     default: "as7ar.portfolio",
   },
-  description: "Co-founder of unkey.dev and founder of planetfall.io",
+  description: "the Portfolio of AS7AR",
   openGraph: {
     title: "astar.portfolio",
     description:
-      "Co-founder of unkey.dev and founder of planetfall.io",
+      "the Portfolio of AS7AR",
     url: "https://chronark.com",
     siteName: "astar.portfolio",
     images: [

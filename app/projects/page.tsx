@@ -8,7 +8,7 @@ import {Eye} from "lucide-react";
 
 export const revalidate = 60;
 export default async function ProjectsPage() {
-  const featured = allProjects.find((project) => project.slug === "Folia")!;
+  const featured = allProjects.find((project) => project.slug === "Folra")!;
   const top2 = allProjects.find((project) => project.slug === "planetfall")!;
   const top3 = allProjects.find((project) => project.slug === "highstorm")!;
   const exclude = new Set(
