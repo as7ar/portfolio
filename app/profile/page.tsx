@@ -42,6 +42,7 @@ export default function Profile() {
               alt="profile"
               width={220}
               height={220}
+              unoptimized
             />
           </div>
         </div>
