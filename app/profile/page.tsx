@@ -24,10 +24,10 @@ export default function Profile() {
 
             <div className="name-card-stack">
               <span>TypeScript/JavaScript [ 7/10 ]</span>
-              <span>React [ 6/10 ]</span>
-              <span>Vue.js [ 7/10 ]</span>
+              <span>React [ 7/10 ]</span>
+              <span>Next.js [ 7/10 ]</span>
+              <span>Vue.js [ 6/10 ]</span>
               <span>Node.js [ 5/10 ]</span>
-              <span>Next.js [ 3/10 ]</span>
               <span>Rust [ 2/10 ]</span>
               <span>Python [ 8/10 ]</span>
               <span>Kotlin/Java [ 9/10 ]</span>
@@ -38,7 +38,7 @@ export default function Profile() {
 
           <div className="name-card-right">
             <Image
-              src="/image.png"
+              src="/profile.png"
               alt="profile"
               width={220}
               height={220}
