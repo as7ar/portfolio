@@ -26,7 +26,7 @@ export default function Profile() {
               <span>TypeScript/JavaScript [ 7/10 ]</span>
               <span>React [ 7/10 ]</span>
               <span>Next.js [ 7/10 ]</span>
-              <span>Vue.js [ 6/10 ]</span>
+              <span>C# [ 3/10 ]</span>
               <span>Node.js [ 5/10 ]</span>
               <span>Rust [ 2/10 ]</span>
               <span>Python [ 8/10 ]</span>
