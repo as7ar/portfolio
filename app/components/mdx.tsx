@@ -65,8 +65,8 @@ const components = {
 	a: ({ className, ...props }) => (
 		<Link
 			className={clsx(
-				"font-medium text-zinc-900 underline underline-offset-4",
-				className,
+			"font-medium text-zinc-900 underline underline-offset-4 dark:text-zinc-100",
+			className
 			)}
 			{...props}
 		/>
@@ -145,11 +145,11 @@ const components = {
 	pre: ({ className, ...props }) => (
 		<pre
 			className={clsx(
-				"mt-6 mb-4 overflow-x-auto rounded-lg bg-zinc-900 py-4",
-				className,
+			"mt-6 mb-4 overflow-x-auto rounded-lg bg-zinc-100 dark:bg-zinc-900 py-4",
+			className
 			)}
 			{...props}
-		/>
+		/>	
 	),
 	code: ({ className, ...props }) => (
 		<code
