@@ -28,7 +28,7 @@ export default function Profile() {
               <span>Next.js [ 7/10 ]</span>
               <span>C# [ 3/10 ]</span>
               <span>Node.js [ 5/10 ]</span>
-              <span>Rust [ 2/10 ]</span>
+              <span>Go [ 5/10 ]</span>
               <span>Python [ 8/10 ]</span>
               <span>Kotlin/Java [ 9/10 ]</span>
               <span>Minecraft Plugin [ 9/10 ]</span>
