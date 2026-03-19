@@ -29,7 +29,6 @@ export default function Profile() {
               <span>Node.js [ 7/10 ]</span>
               <span>Python [ 8/10 ]</span>
               <span>Kotlin/Java [ 9/10 ]</span>
-              <span>Backend Systems [ 8/10 ]</span>
             </div>
           </div>
 
