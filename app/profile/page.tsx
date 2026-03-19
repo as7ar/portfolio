@@ -15,24 +15,21 @@ export default function Profile() {
             </div>
 
             <h2 className="name-card-title">AS7AR</h2>
-            <p className="name-card-role">Full-stack / Minecraft Developer</p>
+            <p className="name-card-role">Full-stack Developer</p>
 
             <p className="name-card-desc">
-              Minecraft plugins, web systems, and tools focused on structure,
-              performance, and maintainability.
+              Structure, performance, and maintainability focused web systems and tools.
             </p>
 
             <div className="name-card-stack">
-              <span>TypeScript/JavaScript [ 7/10 ]</span>
-              <span>React [ 7/10 ]</span>
-              <span>Next.js [ 7/10 ]</span>
-              <span>C# [ 3/10 ]</span>
-              <span>Node.js [ 5/10 ]</span>
-              <span>Go [ 5/10 ]</span>
+              <span>TypeScript/JavaScript [ 9/10 ]</span>
+              <span>React [ 8/10 ]</span>
+              <span>Next.js [ 8/10 ]</span>
+              <span>Go [ 7/10 ]</span>
+              <span>Node.js [ 7/10 ]</span>
               <span>Python [ 8/10 ]</span>
               <span>Kotlin/Java [ 9/10 ]</span>
-              <span>Minecraft Plugin [ 9/10 ]</span>
-              <span>Minecraft Modding [ 3/10 ]</span>
+              <span>Backend Systems [ 8/10 ]</span>
             </div>
           </div>
 
